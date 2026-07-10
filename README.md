@@ -27,3 +27,5 @@
 - **Симулятор:** Gazebo Classic 11
 - **Стек навигации:** Nav2 + SLAM Toolbox + Cartographer
 - **Язык:** Python 3.10 (rclpy)
+
+## Рабочие файлы проекта
